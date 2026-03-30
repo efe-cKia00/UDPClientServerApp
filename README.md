@@ -57,7 +57,7 @@ No external dependencies required beyond Java standard library.
 ### Using Maven
 
 ```bash
-cd c:\Users\deafv\Documents\Projects\Undergraduate\CSCI455\UDPClientServerApp
+cd c:\path\UDPClientServerApp
 mvn clean compile
 ```
 
@@ -361,6 +361,6 @@ This project demonstrates:
 
 - [Efe Awo-Osagie](https://www.linkedin.com/in/efe-awo/)
 
-## License
+## Licence:
 
-Educational use only
+This application served as the Author's Java TCP socket programming project 2 in CSCI455 (Networking and Parallel Computation) course. It is for educational purposes only. See your institution's guidelines for code sharing and reuse.
