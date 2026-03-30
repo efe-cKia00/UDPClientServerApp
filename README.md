@@ -359,12 +359,8 @@ This project demonstrates:
 
 ## Author
 
-Created for CSCI455 Project 2 - UDP Client Server Application
+- [Efe Awo-Osagie](https://www.linkedin.com/in/efe-awo/)
 
 ## License
 
 Educational use only
-
----
-
-**Enjoy fundraising! 🎉**
